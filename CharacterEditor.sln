@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterEditor", "CharacterEditor\CharacterEditor.csproj", "{4BDC28A3-4BC5-41C9-966E-9DC03DA63717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDC28A3-4BC5-41C9-966E-9DC03DA63717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDC28A3-4BC5-41C9-966E-9DC03DA63717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDC28A3-4BC5-41C9-966E-9DC03DA63717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDC28A3-4BC5-41C9-966E-9DC03DA63717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B66F81-D377-4BBA-8966-0BA9AEB6B563}
+	EndGlobalSection
+EndGlobal
